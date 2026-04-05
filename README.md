@@ -1,6 +1,6 @@
 # 🍄 Mario C++ Graphics Archive: A Legacy DOSBox Project
 
-### 🎓 Engineering Portfolio | Period: 2020-2021
+### 🎓 Engineering Portfolio | Period: 2020
 This repository archives a series of development milestones created during my Engineering degree. It demonstrates my early foundations in **Low-Level Programming**, **Coordinate Geometry**, and **Game Loop Logic** using C++ and the legacy `graphics.h` library.
 
 ---
